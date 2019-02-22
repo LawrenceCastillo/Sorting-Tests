@@ -3,4 +3,4 @@
 Implementation of these algorithms in C++ with efficiency tests. (Sample<br>
 main file included.)</p>
 
-<p>Class assignment (Hunter College)</p>
+<p>Class assignment (Hunter College). Header created by Prof. Tiziana Ligorio.</p>
